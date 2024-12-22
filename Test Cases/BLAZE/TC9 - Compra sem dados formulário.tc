@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC9 - Compra sem dados formulário</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>928e632d-e94e-4854-bc9d-7a5393ac87e2</testCaseGuid>
+</TestCaseEntity>

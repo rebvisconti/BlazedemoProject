@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC10 - Deletar produto do carrinho de compra</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>37e8a9fa-7d25-411f-95e2-d5ef0994f3aa</testCaseGuid>
+</TestCaseEntity>

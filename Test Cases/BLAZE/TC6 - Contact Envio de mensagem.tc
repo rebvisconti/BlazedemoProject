@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC6 - Contact Envio de mensagem</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>70e84cef-a694-4d48-9aa4-ef2acf5cd4ab</testCaseGuid>
+</TestCaseEntity>

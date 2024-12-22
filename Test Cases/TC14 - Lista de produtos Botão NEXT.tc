@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC14 - Lista de produtos Botão NEXT</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d70838f9-aa97-4168-b283-e9f7375ad189</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC15 - Lista de produtos Botão PREVIOUS</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d856a583-bffb-4dd2-bf0b-1719429591b8</testCaseGuid>
+</TestCaseEntity>

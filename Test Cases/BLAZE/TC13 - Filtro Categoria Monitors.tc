@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC13 - Filtro Categoria Monitors</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0fdbf0c8-d32f-4405-94e4-4e7d43c5fc88</testCaseGuid>
+</TestCaseEntity>

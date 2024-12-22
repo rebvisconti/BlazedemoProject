@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC17 - Login com credenciais válidas</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e8e5e3ce-46c9-4a06-871b-53a16f13adc8</testCaseGuid>
+</TestCaseEntity>

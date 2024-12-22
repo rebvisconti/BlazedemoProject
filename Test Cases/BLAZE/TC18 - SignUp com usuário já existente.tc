@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC18 - SignUp com usuário já existente</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>935d7ccd-1ab2-432b-b5bb-7729d62de933</testCaseGuid>
+</TestCaseEntity>

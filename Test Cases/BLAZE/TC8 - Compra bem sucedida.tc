@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC8 - Compra bem sucedida</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>103b9c45-390a-4ecc-8f0e-481dc237ce5a</testCaseGuid>
+</TestCaseEntity>

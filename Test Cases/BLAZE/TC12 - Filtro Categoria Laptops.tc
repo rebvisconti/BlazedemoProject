@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC12 - Filtro Categoria Laptops</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8aad5794-31c7-4911-bad7-c51b82a31735</testCaseGuid>
+</TestCaseEntity>
