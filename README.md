@@ -1,54 +1,53 @@
-Projeto de Testes Automatizados - Demoblaze.com
-Este repositório apresenta um projeto de testes automatizados com Katalon Studio desenvolvido com foco no site Demoblaze, uma loja virtual fictícia utilizada para fins educacionais.
+## 🔹 Projeto Demoblaze
 
-O objetivo do projeto é demonstrar a criação e execução de casos de teste automatizados que cobrem funcionalidades críticas do sistema, simulando ações reais dos usuários, como cadastro, login, compras e navegação por categorias de produtos.
+Projeto de testes automatizados no site [Demoblaze](https://demoblaze.com/), simulando a experiência de um e-commerce. Os casos de teste cobrem funcionalidades de login, cadastro, compras e navegação.
 
-Ferramentas Utilizadas: 
-- Katalon Studio
-- Groovy (linguagem base do Katalon)
-- Git/GitHub
-- Testes realizados com interface gráfica (UI)
+### ✅ Casos de Teste
 
-Objetivos do Projeto:
-- Praticar a automação de testes funcionais utilizando Katalon Studio
-- Validar os principais fluxos do sistema de e-commerce
-- Garantir que funcionalidades essenciais estejam funcionando conforme esperado
-- Exercitar boas práticas em QA, como organização dos testes e reaproveitamento de componentes
+| Código | Nome do Caso de Teste                            | Descrição                                                                 |
+|--------|--------------------------------------------------|---------------------------------------------------------------------------|
+| TC1    | SignUp                                           | Cadastro de novo usuário com dados válidos                               |
+| TC2    | Login com credenciais válidas (variáveis)        | Login bem-sucedido utilizando variáveis                                  |
+| TC3    | Login com credenciais inválidas                  | Validação de mensagem de erro                                            |
+| TC4    | Login com senha inválida                         | Login com senha incorreta                                                |
+| TC5    | Logout                                           | Validação do fluxo de logout                                             |
+| TC6    | Contact - Envio de mensagem                      | Teste do formulário de contato                                           |
+| TC7    | About Us com vídeo                               | Validação da exibição do vídeo institucional                             |
+| TC8    | Compra bem-sucedida                              | Fluxo completo de compra                                                 |
+| TC9    | Compra sem dados no formulário                   | Tentativa de compra sem preencher campos                                 |
+| TC10   | Deletar produto do carrinho                      | Remoção de itens do carrinho de compras                                  |
+| TC11   | Filtro Categoria: Phones                         | Validação do filtro "Phones"                                             |
+| TC12   | Filtro Categoria: Laptops                        | Validação do filtro "Laptops"                                            |
+| TC13   | Filtro Categoria: Monitors                       | Validação do filtro "Monitors"                                           |
+| TC14   | Lista de produtos - Botão NEXT                   | Navegação para próxima página de produtos                                |
+| TC15   | Lista de produtos - Botão PREVIOUS               | Navegação para página anterior                                           |
+| TC16   | Banners principais da Home                       | Verificação de banners na página inicial                                 |
+| TC17   | Login com credenciais válidas                    | Teste repetido com outros dados válidos                                  |
+| TC18   | SignUp com usuário já existente                  | Tentativa de cadastro com usuário duplicado                              |
 
-Casos de Teste Automatizados:
+## 🛠 Ferramentas Utilizadas
 
-Código/Caso de Teste	| Descrição
-- TC1 SignUp | Cadastro de novo usuário com dados válidos
-- TC2 Login com credenciais válidas | Login com usuário e senha válidos (utilizando variáveis)
-- TC3 Login com credenciais inválidas | Validação de mensagem de erro com usuário e senha inválidos
-- TC4 Login com senha inválida | Teste de login com senha incorreta
-- TC5 Logout | Validação do fluxo de logout
-- TC6 Contact - Envio de mensagem	| Teste de envio de mensagem através do formulário "Contact"
-- TC7 AboutUs com vídeo |	Validação da exibição do vídeo na seção "About Us"
-- TC8 Compra bem-sucedida | Fluxo completo de compra com preenchimento correto dos dados
-- TC9 Compra sem dados no formulário | Tentativa de compra sem preencher o formulário (validação de erro)
-- TC10 Deletar produto do carrinho | Remoção de produto do carrinho de compras
-- TC11 Filtro Categoria: Phones | Validação do filtro de produtos da categoria "Phones"
-- TC12 Filtro Categoria: Laptops | Validação do filtro de produtos da categoria "Laptops"
-- TC13 Filtro Categoria: Monitors	| Validação do filtro de produtos da categoria "Monitors"
-- TC14 Lista de produtos - Botão NEXT | Teste de navegação para próxima página de produtos
-- TC15 Lista de produtos - Botão PREVIOUS | Teste de navegação para página anterior de produtos
-- TC16 Banners principais da Home	| Verificação de exibição dos banners principais na página inicial
-- TC17 Login com credenciais válidas | Repetição do fluxo de login válido (com variações de dados)
-- TC18 SignUp com usuário já existente| Tentativa de cadastro com usuário já registrado
+- **Katalon Studio**  
+- **Groovy (linguagem de script)**  
+- **Git / GitHub**  
+- Testes com **foco na interface gráfica (UI)**  
+- Organização por pastas de **Test Cases**, **Object Repository**, e **Test Suites**  
 
-Estrutura do Projeto:
+---
 
-- ├── Test Cases/
-- │   ├── TC1_SignUp
-- │   ├── TC2_Login_Valid_Variables
-- │   ├── ...
-- │   └── TC18_SignUp_UserExists
-- ├── Object Repository/
-- ├── Test Suites/
-- ├── Reports/
-- └── README.md
+## 📌 Considerações Finais
 
-Considerações Finais: Este projeto foi desenvolvido com o objetivo de consolidar os conhecimentos em automação de testes manuais e funcionais com Katalon Studio, sendo uma importante etapa na minha jornada de transição para a área de Quality Assurance (QA).
+Este repositório representa parte da minha jornada de aprendizagem e transição para a área de **Quality Assurance**. A criação desses projetos me permitiu:
 
-Fique à vontade para explorar os testes, clonar o repositório ou entrar em contato para trocar experiências! :)
+- Consolidar conhecimentos em **automação de testes funcionais**
+- Praticar a criação de **cenários realistas**
+- Reforçar o uso de boas práticas em **testes com Katalon Studio**
+- Desenvolver autonomia em ferramentas amplamente utilizadas no mercado
+
+Caso tenha interesse em conversar sobre QA, compartilhar experiências ou colaborar, fique à vontade para entrar em contato!
+
+---
+
+📧 **Rebeca Visconti**  
+💼 [LinkedIn](https://www.linkedin.com/in/rebecavisconti)  
+📍 Porto, Portugal
